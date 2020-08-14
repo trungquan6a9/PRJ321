@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/META-INF/context.xml</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/registration/RegistrationDAO.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/LoginServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/utilities/DBHelpers.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/LogoutServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/cart/CartObject.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/WEB-INF/siteMap.txt</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/checkOutConfirm.jsp</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/createNewAccount.jsp</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/createNewAccount.html</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/error.html</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/invalid.html</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/login.html</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/onlineStore.jsp</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/search.jsp</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/searchForUser.jsp</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/web/viewCart.jsp</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/carts/CartsCheckOutError.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/carts/CartsDAO.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/AddToCartServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/CartServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/CheckoutBookServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/DeleteServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/FilterDispatcher.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/OnlineStoreServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/RemoveSelectedBookServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/SearchServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/SignUpServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/controller/UpdateServlet.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/listener/MyContextServletListener.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/products/ProductsDAO.java</file>
+            <file>file:/D:/Learning/Summer2020(Ki7)/PRJ321/Projects/PRJ321_SE1413_Filter/src/java/quanbt/products/ProductsDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
